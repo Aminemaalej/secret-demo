@@ -6,8 +6,8 @@
 crash.log
 crash.*.log
 
-# Terraform lock file (optional, include if you want reproducible builds)
-# .terraform.lock.hcl
+# Terraform lock file
+.terraform.lock.hcl
 
 # Terraform provider plugins
 .terraform/
